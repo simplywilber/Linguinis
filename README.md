@@ -4,7 +4,7 @@
 
 > Welcome to Linguinis, an organizational to-do list web application that allows the user to better compartmentalize their life. Giving the user the ability to create, read, edit and delete notes at any time. The to-do list is responsive and the authentication and database infrastructure allows the user to take the list with them on their mobile, and then access it later on a different device.
 
-<a href="">View Live Website</a>
+<a href="https://linguinis.netlify.app/">View Live Website</a>
 
 ## About The Project
 
