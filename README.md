@@ -39,7 +39,7 @@ Linguinis is a full stack application that utilizes `CRUD` methodology and user 
 </ul>
 </div>
 
-See the [open issues](https://github.com/simplywilber/to-do-list/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/simplywilber/Linguinis/issues) for a full list of proposed features (and known issues).
 
 <a href="#readme-top">back to top</a>
 
@@ -52,13 +52,13 @@ Please make sure to update tests as appropriate.
 
 ## Getting Started
 
-To get started you can simply clone this `to-do-list` repository and install the dependencies.
+To get started you can simply clone this `Linguinis` repository and install the dependencies.
 
-Clone the `to-do-list` repository using git:
+Clone the `Linguinis` repository using git:
 
 ```bash
-git clone https://github.com/simplywilber/to-do-list
-cd to-do
+git clone https://github.com/simplywilber/Linguinis
+cd Linguinis
 ```
 
 Install dependencies with this command:
@@ -77,7 +77,7 @@ npm start
 
 Wilber Amaya - [@simplywilber](https://instagram.com/simplywilber) - simplywilber@gmail.com
 
-Project Link: [https://github.com/simplywilber/to-do-list](https://github.com/simplywilber/to-do-list)
+Project Link: [https://github.com/simplywilber/Linguinis](https://github.com/simplywilber/Linguinis)
 
 ## License
 
